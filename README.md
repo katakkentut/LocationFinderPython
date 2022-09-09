@@ -32,6 +32,6 @@ Also findlocation can't work in headless mode but i set the chrome location to "
  - [chromedriver.exe](https://chromedriver.chromium.org/downloads)
  
 ## Demo
-<img src="https://github.com/katakkentut/LocationFinderPython/blob/master/Tutorial/Tutorial.gif" width="600" height="600">
+<img src="https://github.com/katakkentut/LocationFinderPython/blob/master/Tutorial/Tutorial.gif" width="700" height="600">
  
  
