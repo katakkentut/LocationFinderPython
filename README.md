@@ -19,6 +19,7 @@ Find Location And Bypass Browser Want To Know Your Location Permission.
 
   # Using Nuitka
   py -m nuitka --mingw64 .\find_location.py --standalone --onefile 
+ ```
 
 
 ## Tutorial
