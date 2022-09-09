@@ -25,9 +25,9 @@ Find Location And Bypass Browser Want To Know Your Location Permission.
 ## Tutorial
 
 You need to use chromedriver.exe to make this tool work and put into same directory with script/exe. chromedriver must have the same version with Chrome. 
-Also findlocation can't work in headless mode but i set the chrome location to "window-position=-2000,0" so there's nothing shows on the screen. Only in taskbar.
+Also findlocation can't work in headless mode but i set the chrome location to "window-position=-2000,0" so there's nothing shows on the screen. Only on taskbar.
 
-## Download chronmedriver.exe
+## Download chromedriver.exe
 
  - [chromedriver.exe](https://chromedriver.chromium.org/downloads)
  
