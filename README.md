@@ -4,6 +4,11 @@ Find Location And Bypass Browser Want To Know Your Location Permission.
 
 ## Usage
 
+### Install Module
+
+```python
+  pip install selenium
+```
 ### Run Tool
 
 ```python
